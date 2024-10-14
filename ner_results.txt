@@ -1,0 +1,50 @@
+NER Results for Article 0:
+Polyarchy (ORG), New America (LOC), Washington (LOC), Amanda Taub (PER), New York Times (ORG), Roberto Stefan Foa (PER), Ya (PER), ##sch (PER), ##a Mounk (PER), Erik (PER), New York (ORG), Times (ORG), Jeff (PER), Guo (PER), Journal (ORG), Democracy (ORG)
+
+==================================================
+
+NER Results for Article 1:
+Indianapolis Colts (ORG), Andrew Luck (PER), NFL (ORG), Luck (PER), Colts (ORG), Ryan Grigson (PER), Colts (ORG), Luck (PER), Keef (PER), Grig (PER), Colts (ORG), Luck (PER), Colts (ORG), Denver Broncos (ORG), Peyton Manning (PER), Luck (PER), Manning (PER), Colts (ORG), Broncos (ORG), Patriots (ORG), Colts (ORG), Luck (PER), Colts (ORG), Luck (PER), NFL (ORG)
+
+==================================================
+
+NER Results for Article 2:
+DAVOS (ORG), Switzerland (LOC), Reuters (ORG), U. S. (LOC), Donald Trump (PER), Robert Mueller (PER), The New York Times (ORG), Trump (PER), White House (LOC), Trump (PER), Davos (LOC), Steve Holland (PER)
+
+==================================================
+
+NER Results for Article 3:
+PARIS (ORG), Reuters (ORG), French (MISC), Nicolas Sarkoz (PER), Emmanuel Macron (PER), ##s (MISC), Sarkoz (PER), Franco (PER), ##is Fillon (PER), Sarkoz (PER), B (PER), ##ling (PER), B (PER), Elysee (ORG), Carla Bruni (PER), “ (PER), Passion (PER), France (LOC), Emmanuel Macron (PER), Sarkoz (PER), Les Republicains (ORG), Mac (PER), ##ron (ORG), Sarkoz (PER), Le Point (ORG), French (MISC), Sarkoz (PER), Sarkoz (PER), Les (PER), Laurent (PER), European (MISC), Sa (PER), Sa (PER)
+
+==================================================
+
+NER Results for Article 4:
+Paris Hilton (PER), LA (LOC), ##X (ORG), Monty Brinson (PER), Paris (LOC), Switzerland (LOC), B (PER), ##rinson (PER), Kim Richards (PER), Monty (PER), Paris (LOC), Monty (PER), R (ORG), I. P (ORG)
+
+==================================================
+
+NER Results for Article 5:
+##LIN (ORG), Reuters (ORG), ECB (ORG), Benoit Coeure (PER), ECB (ORG), ECB (ORG), Coeur (PER), Financial Times (ORG), Go (ORG), ##verning Council (ORG), Michelle Martin (PER), Ta (PER), ##ssi (PER), ##lo Humme (PER)
+
+==================================================
+
+NER Results for Article 6:
+CARACAS (ORG), Reuters (ORG), Venezuelan (MISC), Nicolas Maduro (PER), Air Force Brigade (ORG), Miguel Sisco Mora (PER), Guatire (LOC), Caracas (LOC), Stephanie Sisco (PER), Navy Corvette (ORG), Rafael Costa (PER), G (LOC), ##uarenas (LOC), Wales (PER), ##ka Perez (PER), Stephanie Sisco (PER), Mad (PER), Juan Guaido (PER), National Assembly (ORG), Venezuela (LOC), U (ORG), N (ORG), Michelle Bachelet (PER), Mad (PER), Maduro (PER), U (ORG), N (ORG), Penal Forum (ORG), Air Force (ORG), Caracas (LOC), Venezuela (LOC), C (ORG), ##ICPC (ORG), Guatire (LOC), Tamara Suju (PER), Venezuela (LOC), Information Ministry (ORG), Penal Forum (ORG), Venezuela (LOC), Maduro (PER), Mad (ORG), G (PER), United States (ORG), Report (ORG), Vivian (PER), Se (ORG), Luc (PER), Cohen (ORG), Phil (PER)
+
+==================================================
+
+NER Results for Article 7:
+Mi (PER), ##ly Csíkszentmihály (PER), Zone (MISC), C (PER), ##sz (PER), ##mihá (PER)
+
+==================================================
+
+NER Results for Article 8:
+Google I / O (ORG), Android (MISC), Google (ORG), YouTube (ORG), Google (ORG), YouTube (ORG), Cardboard (MISC), YouTube (ORG), 360 (MISC), Recode (ORG), London (LOC), Hong Kong (LOC), Recode (ORG)
+
+==================================================
+
+NER Results for Article 9:
+China (LOC), Trump (PER), China (LOC), Trump (PER), Donald Trump (PER), Beijing (LOC), VICE News (ORG), Chinese (MISC), U. S. (LOC), Xinhua (ORG), Zhang Baohui (PER), Hong Kong (LOC), Lingnan University (ORG), Xinhua (ORG), Trump (PER), China (LOC), Trump (PER), Russia (LOC), Iran (LOC), Zhang (PER), Donald Trump (PER), Beijing (LOC), VICE News (ORG), Chinese (MISC), U. S. (LOC), Xinhua (ORG), Zhang Baohui (PER), Hong Kong (LOC), Lingnan University (ORG), Xinhua (ORG), Trump (PER), China (LOC), Trump (PER), Russia (LOC), Iran (LOC), Zhang (PER), Xi (PER), Communist (MISC), Party (ORG), Chinese (MISC), Xi (ORG), Yang (PER), F (ORG)
+
+==================================================
+
